@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek-Kumarprajapat
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Backend Web Devloper
+- 🌱 I’m currently learning FRONTEND Web Devloper
 - 💞️ I’m looking to job in web developer
   
 
